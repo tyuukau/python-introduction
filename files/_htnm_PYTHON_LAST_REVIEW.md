@@ -9,15 +9,13 @@ Data Science and Artificial Intelligence - K65.
 
 ## PREFACE
 
-**Thank you, my teacher, Dr. Dinh Viet Sang, I cannot learn programming in Python that much without you. This notebook uses a huge part your lectures as a guidance.**
+**I would like to express my gratitude to my teacher — Dr. Dinh Viet Sang — for his continued guidance in this IT1110E course. This notebook is largely based on his lectures.**
 
-*Dear Data Science & AI - K65,*
+*My mates at the Data Science & Artificial Intelligence program,*
 
-This is my last notebook in order to prepare for the final exam on Introduction to Programming. If you find this notebook helpful, thanks for reading it. Some might find this one not that helpful, I highly appreciate every line of text you read, including this one.
+This is my last notebook to prepare for the Introduction to Programming final exam. If you find my work helpful, I'm happy to hear that! DM me about any mistakes that you find and I will fix it as soon as possible.
 
-If you find any mistake, feedback and I will try to fix it as soon as possible.
-
-Thank y'all for supporting me all the time, good luck on all of your exams.
+Thank y'all for your continued support and good luck with your exams!
 
 Best wishes,
 
@@ -27,7 +25,7 @@ Best wishes,
 
 ## CODES FOR ALL EXERCISES AND SOURCES
 
-SOME OF THE FOLLOWING CONTENTS MIGHT BE ADJUSTED OVER TIME.
+THE CONTENT MAY BE SUBJECT TO CHANGE OVER TIME.
 
 Code for all exercises:
 
